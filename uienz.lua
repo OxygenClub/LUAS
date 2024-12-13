@@ -3691,12 +3691,16 @@ local Env = getgenv()
                 Library:ChangeObjectTheme(KeybindValue, {
                     TextColor3 = "Text"
                 }, true)
-            elseif input.KeyCode == Keybind.Key or input.UserInputType == Keybind.Key then
+            elseif input.KeyCode == Keybind.Key or input.UserInputType == Keybind.Key and not UserInputService:GetFocusedTextBox() then
                 Keybind.Set(not Keybind.Value)
             end
         end)
 
         Utility:Connect(UserInputService.InputEnded, function(input)
+            if UserInputService:GetFocusedTextBox() then
+                return
+            end
+            
             if Keybind.Mode == "Hold" and (input.KeyCode == Keybind.Key or input.UserInputType == Keybind.Key) and not Keybind.Listening then
                 Keybind.Set(false)
             end

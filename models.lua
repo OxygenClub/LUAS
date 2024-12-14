@@ -255,4 +255,8 @@ return {
         asset = "rbxassetid://4996521066",
         offset = Vector3.new(0, 0, 0),
     },
+    ["Eiffel Tower"] = {
+        asset = "rbxassetid://16468075812",
+        offset = Vector3.new(0, 0, 0),
+    }
 }

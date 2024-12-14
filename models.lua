@@ -248,7 +248,7 @@ return {
         offset = Vector3.new(0, 0, 0),
     },
     ["Peter Griffin"] = {
-        asset = "rbxassetid://10124180584",
+        asset = "rbxassetid://16094627726",
         offset = Vector3.new(0, 0, 0),
     },
     ["Cake Car"] = {

@@ -143,4 +143,116 @@ return {
         asset = "rbxassetid://15838437235",
         offset = Vector3.new(0, 0, 0),
     },
+    Wheel = {
+        asset = "rbxassetid://6359206499",
+        offset = Vector3.new(0, 0, 0),
+    },
+    Train = {
+        asset = "rbxassetid://622442351",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Wooden Box"] = {
+        asset = "rbxassetid://6031946800",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["HL2 Chair"] = {
+        asset = "rbxassetid://439997201",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Office Chair"] = {
+        asset = "rbxassetid://5188154447",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Office Desk"] = {
+        asset = "rbxassetid://6204079308",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Krusty Krab"] = {
+        asset = "rbxassetid://2180383726",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Light House"] = {
+        asset = "rbxassetid://2177678249",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Briefing Room"] = {
+        asset = "rbxassetid://18431492203",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Comfort Chair"] = {
+        asset = "rbxassetid://5606474646",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["HL2 Fridge"] = {
+        asset = "rbxassetid://442358581",
+        offset = Vector3.new(0, 0, 0),
+    },
+    Lada = {
+        asset = "rbxassetid://13170220477",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Soviet Apartment"] = {
+        asset = "rbxassetid://6131311637",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Saul Goodman"] = {
+        asset = "rbxassetid://10843895746",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Tyler The Creator"] = {
+        asset = "rbxassetid://10492281356",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Da Baby"] = {
+        asset = "rbxassetid://6671376248",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Carl Wheezer"] = {
+        asset = "rbxassetid://4968026142",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Da Baby Deformed"] = {
+        asset = "rbxassetid://7124828082",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Donut"] = {
+        asset = "rbxassetid://14489952156",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["E-girl"] = {
+        asset = "rbxassetid://6211683855",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Flintstone"] = {
+        asset = "rbxassetid://6861887067",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Pilgrim"] = {
+        asset = "rbxassetid://6979958247",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Hotdog Man"] = {
+        asset = "rbxassetid://5761469352",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Fat Pig"] = {
+        asset = "rbxassetid://3685119025",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Goofy"] = {
+        asset = "rbxassetid://11675467370",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Nerd"] = {
+        asset = "rbxassetid://10124180584",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Peter Griffin"] = {
+        asset = "rbxassetid://10124180584",
+        offset = Vector3.new(0, 0, 0),
+    },
+    ["Cake Car"] = {
+        asset = "rbxassetid://4996521066",
+        offset = Vector3.new(0, 0, 0),
+    },
 }
